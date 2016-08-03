@@ -7,6 +7,7 @@ This solution was created by me for people who using the old phantoms (3 ADV/PRO
 I'm using the regular DJI SDK for Android and Facebook SDK for video managament.
 The idea is to create a useful tool for people who want share a live video feed.
 
+![alt tag](http://www.technobuffalo.com/wp-content/uploads/2016/04/facebook-live-api-3.jpeg)
 
 # License
 
